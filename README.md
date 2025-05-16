@@ -25,7 +25,7 @@ This project focuses on predicting estimated delivery times (ETAs) for DoorDash 
 - **Best Model:** XGBoost Regressor with preprocessing (R²: 0.4938)
 - **Impact:** ETA prediction error reduced by nearly 2× with effective preprocessing and feature selection.
 
-## 📌 Key Insights
+## Key Insights
 
 - Timestamp features and zone/market clustering improved model performance.
 - Preprocessing (imputation + scaling) significantly impacted accuracy.
